@@ -9,7 +9,7 @@ const axios = require('axios');
 
 //=== Edit Disini 🔥
 global.namabot = "AiBotzz-MD"
-global.namaowner = "Sanjaya"
+global.namaowner = "ᴹᴿ᭄ TirodevOfcོ ×፝֟͜×"
 global.packname = "Sticker by"
 global.creator = "SanjayaAds"
 global.author = "AiBotzz-MD\n\nBot WhatsApp"
@@ -21,7 +21,7 @@ global.email = "OwnerKuu@gmail.com"
 global.sig = "https://Instagram.com/@Jayy_yete"
 global.myweb = "https://shoplinks.to/AiBotzzSH"
 global.footer_text = "© AiBotzz-MD"
-global.owner = ['62896540577165']
+global.owner = ['213774721428']
 global.gifin = "https://telegra.ph/file/0cf1c5039a2be1b66ef15.mp4"
 global.thumb = "https://telegra.ph/file/6b25dc6f38b32804d7e59.jpg"
 global.thumb2 = "https://telegra.ph/file/c74dda31793574f84070e.jpg"
@@ -66,7 +66,7 @@ global.prefix = ['-_-']
 // Jangan diubah
 global.tekspushcontact = "Izin Push" 
 // Terserah
-global.typemenu = "v6"
+global.typemenu = "v5"
 // Ini type menu nya
 // v1 - v2 - v3 - v4 - v5 - v6
 global.typeallmenu = "v1"
